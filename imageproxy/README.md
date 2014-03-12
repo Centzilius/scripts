@@ -11,4 +11,4 @@ This script has been created to deal with non HTTP images in an HTTPS enabled fo
 
 ## Requirements
 
-You need a fontfile (.ttf). I've used OpenSans which is available [here](http://www.google.com/fonts#UsePlace:use/Collection:Open+Sans)
+You need a fontfile (.ttf). I've used OpenSans which is available [here](http://www.google.com/fonts#UsePlace:use/Collection:Open+Sans) and PHP.
