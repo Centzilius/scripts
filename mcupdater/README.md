@@ -3,6 +3,6 @@ A dirty script that will update a minecraft server (here called coronacraft) to 
 
 ## Requirements
 * python3
-* screen
+* tmux
 * python3-requests
 * (java)
