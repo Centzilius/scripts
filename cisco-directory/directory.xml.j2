@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CiscoIPPhoneMenu>
+  <Prompt>Wähle ein Telefonbuch</Prompt>
+{% for entry in phonebooks %}
+  <MenuItem>
+    <Name>{{ entry.name }}</Name>
+    <URL>{{ entry.url }}</URL>
+  </MenuItem>
+{% endfor %}
+</CiscoIPPhoneMenu>
